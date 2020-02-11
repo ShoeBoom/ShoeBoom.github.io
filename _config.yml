@@ -23,10 +23,12 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: false
+    archived: true
     forks: true
     projects:
-    # - repo-name
+      - shoeboom.github.io
+    include:
+      - LoR-decktracker/LoR-tracker
 
 # social_media:
   # behance: your_username
