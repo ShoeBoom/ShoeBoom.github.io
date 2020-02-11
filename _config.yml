@@ -27,8 +27,8 @@ projects:
     forks: true
     projects:
       - shoeboom.github.io
-    include:
-      - LoR-decktracker/LoR-tracker
+  include:
+    - LoR-decktracker/LoR-tracker
 
 # social_media:
   # behance: your_username
