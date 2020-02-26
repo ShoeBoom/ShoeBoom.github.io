@@ -67,3 +67,5 @@ topics:
   
   - name: TensorFlow
     image_url: https://shoeboom.dev/assets/tensorflow[1].png
+  - name: Go
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/200px-Go_Logo_Blue.svg.png
