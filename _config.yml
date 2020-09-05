@@ -28,7 +28,7 @@ projects:
     projects:
       - shoeboom.github.io
   include:
-    - LoR-decktracker/LoR-tracker
+    - ShoeBoom/idea-engine
     - ShoeBoom/JavaFXChess
     - ShoeBoom/RL-Quadcopter-2
     - ShoeBoom/Face-generator
@@ -53,6 +53,12 @@ projects:
   # youtube: your_username
 
 topics:
+  - name: JavaScript
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+    
+  - name: React
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
+
   - name: Python
     image_url: https://shoeboom.dev/assets/python.png
 
@@ -62,10 +68,5 @@ topics:
   - name: Kotlin
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png
     
-  - name: Kubernetes
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
-  
   - name: TensorFlow
     image_url: https://shoeboom.dev/assets/tensorflow[1].png
-  - name: Go
-    image_url: https://shoeboom.dev/assets/golang.png
