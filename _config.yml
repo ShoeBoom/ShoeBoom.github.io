@@ -34,7 +34,8 @@ projects:
     - ShoeBoom/Face-generator
     - ShoeBoom/ArduinoPlayer
 
-# social_media:
+social_media:
+  linkedin: shoeboom
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
